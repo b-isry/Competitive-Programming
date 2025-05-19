@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Competitive Programming
 
 Welcome to the Competitive Programming repository!  
