@@ -11,16 +11,6 @@ This repository contains a collection of solutions, templates, and notes for var
 - **Templates**: Ready-to-use code templates for quick setup during contests.
 - **Notes & Resources**: Helpful notes, tricks, and links to external resources.
 
-## Directory Structure (example)
-
-```
-/algorithms/     # Algorithmic code (sorts, searches, etc.)
-/data_structures/ # Trees, stacks, queues, etc.
-/problems/        # Problem solutions, usually grouped by platform
-/templates/       # Quick-use code snippets for contests
-/notes/           # Markdown notes, tips, and explanations
-```
-
 ## How to Use
 
 - Browse the folders for code and explanations.
@@ -32,10 +22,6 @@ This repository contains a collection of solutions, templates, and notes for var
 
 Contributions are welcome!  
 If you have a better solution, new template, or useful note, feel free to open a pull request.
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
